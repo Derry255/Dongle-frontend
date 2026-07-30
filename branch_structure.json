@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/admin-action-reason-fields",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/admin-action-reason-fields": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/admin-action-reason-fields",
+    "origin"
+  ]
+}
